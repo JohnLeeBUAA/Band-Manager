@@ -1,0 +1,2 @@
+## Project Info
+This is a Java application that manages a band. Band manager can use this software to manage band members, concerts, instruments, music sheets and make announcements. Band members can check announcements, instuments, sheets and concerts information. Users can also share band blogs.
